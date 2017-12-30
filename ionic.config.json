@@ -1,0 +1,8 @@
+{
+  "name": "cutePuppyPics",
+  "app_id": "16ccc257",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
